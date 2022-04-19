@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto Final</string>
+    <string name="title_activity_tab">TabActivity</string>
+    <string name="tab_informacion">Informacion</string>
+    <string name="tab_horario">Horario</string>
+    <string name="tab_citas">Citas</string>
+    <string name="tab_configuracion">Configuración</string>
+</resources>
