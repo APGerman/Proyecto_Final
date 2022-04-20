@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Proyecto Final</string>
+    <string name="app_name">Hospital</string>
     <string name="title_activity_tab">TabActivity</string>
     <string name="tab_informacion">Informacion</string>
     <string name="tab_horario">Horario</string>

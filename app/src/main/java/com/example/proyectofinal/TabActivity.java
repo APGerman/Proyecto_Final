@@ -54,5 +54,11 @@ public class TabActivity extends AppCompatActivity {
         viewPager.setAdapter(sectionsPagerAdapter);
         TabLayout tabs = binding.tabs;
         tabs.setupWithViewPager(viewPager);
+
+        tabs.getTabAt(0).setIcon(R.drawable.ic_inicio);
+        tabs.getTabAt(1).setIcon(R.drawable.ic_horario);
+        tabs.getTabAt(2).setIcon(R.drawable.ic_citas);
+        tabs.getTabAt(3).setIcon(R.drawable.ic_configurar);
+
     }
 }
