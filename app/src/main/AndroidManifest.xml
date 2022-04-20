@@ -31,19 +31,10 @@
             android:name=".AreasActivity"
             android:exported="false" />
         <activity
-            android:name=".TabConfiguracion"
-            android:exported="false" />
-        <activity
-            android:name=".horarioActivity"
-            android:exported="false" />
-        <activity
             android:name=".VihActivity"
             android:exported="false" />
         <activity
             android:name=".DengueActivity"
-            android:exported="false" />
-        <activity
-            android:name=".TabInformacion"
             android:exported="false" />
         <activity
             android:name=".Covid19Activity"
@@ -56,9 +47,6 @@
             android:exported="false" />
         <activity
             android:name=".CitaSeleccionadaActivity"
-            android:exported="false" />
-        <activity
-            android:name=".TabCitas"
             android:exported="false" />
         <activity
             android:name=".RegistrarActivity"
